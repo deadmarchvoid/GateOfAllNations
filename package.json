@@ -1,0 +1,13 @@
+{
+  "name": "gateofallnations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GateOfAllNations panel",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server/index.js"
+  }
+}
